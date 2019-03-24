@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Horizontall Text Scroll
-Plugin URI: http://jhagaurav.000webhostapp.com/horizontal-text-scroll.html
+Plugin URI: http://gauravkumarjha.xyz/horizontal-text-scroll.html
 Description: The horizontal text scroll is the best and lightest wordpress plug-in which let's you scroll the content from one end to another end like reel using shortcodes. This Plug-in is best to use for creating announcements on any page or post.   
 Version: 1.0
 Author: Gaurav Kumar Jha
-Author URI: http://jhagaurav.000webhostapp.com/
+Author URI: http://gauravkumarjha.xyz/
 Text Domain: horizontal-text-scroll
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
